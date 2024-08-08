@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage of Tongzhang Qu"
 author_profile: true
 redirect_from: 
   - /about/
