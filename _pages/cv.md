@@ -11,26 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Rock Physics, the Australian National Univerisity, 2022
+  * Thesis title: 
+  * Supervisor: Prof. Ian Jackson, Dr. Ulrich Faul, Prof. Andrew Berry, Prof. Meghan Miller
+* B.S. in Geosciences, the Pennsylvania State University, 2017 
+* Transferred to the Pennsylvania State University, 2015
+* Undergraduate in Resource Exploration Engineering, Jilin University, 2013-2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - now: postdoctoral researcher
+  * University College London
+  * Research work: 
+  * Supervisor: Prof. David Dobson
+* 2022 - 2024: postdoctoral eesearcher
+  * University College London
+  * Research work: microstructural evolution of Carrara marble undergoing semi-brittle deformation
+  * Supervisor: Prof. Nicolas Brantut
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -53,8 +51,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
